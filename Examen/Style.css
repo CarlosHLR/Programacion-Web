@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffff;
+}	
+h1 {text-align: left;}
+label{text-align: justify;}
+div.Portada{
+    float: right;     
+    width: 25%;     
+    margin: 0.5em;     
+    padding: 0.5em;
+}
+div.Portada p {
+    text-align: center;     
+    font-style: arial;     
+    font-size: smaller;     
+    text-indent: 0;
+}
